@@ -63,7 +63,9 @@ Take a real person who existed in your life — a colleague, a mentor, an ex, a 
 
 ## General / Tools
 
-*No entries yet. [Submit one](https://github.com/mliu98/awesome-human-distillation/issues/new?template=add-skill.yml)*
+| Skill | Description | Stars |
+|-------|-------------|-------|
+| [anti-distill](https://github.com/leilei926524-tech/anti-distill) | Anti-distillation: sanitize your forced Skill file — looks complete, core knowledge stays yours | ![Stars](https://img.shields.io/github/stars/leilei926524-tech/anti-distill?style=flat-square) |
 
 ---
 

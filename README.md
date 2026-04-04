@@ -63,7 +63,9 @@
 
 ## 其他 / 泛用工具 General
 
-*暂无条目。[欢迎提交](https://github.com/mliu98/awesome-human-distillation/issues/new?template=add-skill.yml)*
+| Skill | 描述 | Stars |
+|-------|------|-------|
+| [anti-distill](https://github.com/leilei926524-tech/anti-distill) | 反蒸馏：清洗你被迫写的 Skill 文件，看起来完整，核心知识留给自己 | ![Stars](https://img.shields.io/github/stars/leilei926524-tech/anti-distill?style=flat-square) |
 
 ---
 

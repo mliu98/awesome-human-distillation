@@ -39,11 +39,16 @@ Collecting every project that distills real humans into AI Skills.
 
 ## Academia
 
-*No entries yet. [Submit one](https://github.com/mliu98/awesome-human-distillation/issues/new?template=add-skill.yml)*
+| Skill | Description |
+|-------|-------------|
+| [senpai-skill](https://github.com/zhanghaichao520/senpai-skill) | Distill your graduated senpai — still runs lab meetings, still roasts you, still saves the day |
 
 ## Intimate
 
-*No entries yet. [Submit one](https://github.com/mliu98/awesome-human-distillation/issues/new?template=add-skill.yml)*
+| Skill | Description |
+|-------|-------------|
+| [ex-skill](https://github.com/titanwings/ex-skill) | Distill the one you can't forget |
+| [crush-skill](https://github.com/yyyyyyylll/crush-skill) | Predict your crush's reply before you hit send |
 
 ## Family
 
@@ -67,4 +72,4 @@ We'll review and add it to the list manually.
 
 ---
 
-*Inspired by the cyber-human experiments of the Xiaohongshu community.*
+*Inspired by the cyber-human experiments of the Xiaohongshu community and the [colleague-skill](https://github.com/titanwings/colleague-skill) project.*

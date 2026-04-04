@@ -6,6 +6,9 @@
 
 *Archiving humans, one skill at a time.*
 
+*灵感来源[colleague-skill](https://github.com/titanwings/colleague-skill) 项目。*
+
+
 ---
 
 > **免责声明：** 主包只是在整活，没有成为人类叛徒的意思——打倒AI中心主义！
@@ -39,11 +42,16 @@
 
 ## 学术关系 Academia
 
-*暂无条目。[欢迎提交](https://github.com/mliu98/awesome-human-distillation/issues/new?template=add-skill.yml)*
+| Skill | 描述 |
+|-------|------|
+| [senpai-skill](https://github.com/zhanghaichao520/senpai-skill) | 把毕业的大师兄蒸馏成能继续开组会、骂醒你、顺手救火的 AI Skill |
 
 ## 亲密关系 Intimate
 
-*暂无条目。[欢迎提交](https://github.com/mliu98/awesome-human-distillation/issues/new?template=add-skill.yml)*
+| Skill | 描述 |
+|-------|------|
+| [ex-skill](https://github.com/titanwings/ex-skill) | 致你忘不掉的那个 TA，蒸馏你的前任 |
+| [crush-skill](https://github.com/yyyyyyylll/crush-skill) | 暧昧期消息预测 & 模拟对话，按下发送前先看看 TA 怎么回 |
 
 ## 家庭关系 Family
 
@@ -66,5 +74,3 @@
 我们会审核后手动合并到列表中。
 
 ---
-
-*灵感来源于小红书社区的赛博人类实验。*

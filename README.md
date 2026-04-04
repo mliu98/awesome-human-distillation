@@ -18,7 +18,7 @@
 
 ## 什么是 Human Distillation？
 
-将一个真实存在过的人——同事、导师、前任、家人——通过对话记录、文字、声音等材料，提炼成一个可调用的 [Claude Code Agent Skill](https://docs.anthropic.com/en/docs/claude-code/skills-tutorial)。这是数字生命计划的第一步。
+将一个真实存在过的人——同事、导师、前任、家人——通过对话记录、文字、声音等材料，提炼成一个可调用的 [Claude Code Agent Skill](https://docs.anthropic.com/en/docs/claude-code/skills-tutorial)。
 
 ---
 

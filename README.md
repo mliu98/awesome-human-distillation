@@ -22,22 +22,59 @@
 
 ---
 
-## Skills 列表
+## 目录
 
-| 分类 | Skill | 描述 | Stars |
-|------|-------|------|-------|
-| 职场关系 | [colleague-skill](https://github.com/titanwings/colleague-skill) | 将冰冷的离别化为温暖的 Skill，蒸馏你的同事 | ![Stars](https://img.shields.io/github/stars/titanwings/colleague-skill?style=flat-square) |
-| 职场关系 | [vengeful-ghost-skill](https://github.com/Trailblazer-Aha/vengeful-ghost-skill) | 前同事的厉鬼，抵制将员工变成数字人 | ![Stars](https://img.shields.io/github/stars/Trailblazer-Aha/vengeful-ghost-skill?style=flat-square) |
-| 学术关系 | [senpai-skill](https://github.com/zhanghaichao520/senpai-skill) | 把毕业的大师兄蒸馏成能继续开组会、骂醒你、顺手救火的 AI Skill | ![Stars](https://img.shields.io/github/stars/zhanghaichao520/senpai-skill?style=flat-square) |
-| 学术关系 | [professor-skill](https://github.com/CommitHu502Craft/professor-skill) | 把不会划重点的老师蒸馏成会救你期末的 Skill | ![Stars](https://img.shields.io/github/stars/CommitHu502Craft/professor-skill?style=flat-square) |
-| 亲密关系 | [ex-skill](https://github.com/titanwings/ex-skill) | 致你忘不掉的那个 TA，蒸馏你的前任 | ![Stars](https://img.shields.io/github/stars/titanwings/ex-skill?style=flat-square) |
-| 亲密关系 | [crush-skill](https://github.com/yyyyyyylll/crush-skill) | 暧昧期消息预测 & 模拟对话，按下发送前先看看 TA 怎么回 | ![Stars](https://img.shields.io/github/stars/yyyyyyylll/crush-skill?style=flat-square) |
-| 亲密关系 | [first-love-skill](https://github.com/z969081067-commits/first-love-skill) | 把记忆里的初恋蒸馏成可以对话的 AI Skill，回到那个最耀眼的盛夏 | ![Stars](https://img.shields.io/github/stars/z969081067-commits/first-love-skill?style=flat-square) |
-| 亲密关系 | [partner-skill](https://github.com/NatalieCao323/partner-skill) | 蒸馏你的伴侣，基于依恋理论与爱情心理学的关系维护与增进 | ![Stars](https://img.shields.io/github/stars/NatalieCao323/partner-skill?style=flat-square) |
-| 家庭关系 | [MamaSkill](https://github.com/jiangziyan-693/MamaSkill) | 珍藏回忆、重构挚爱本真的数字圣所 | ![Stars](https://img.shields.io/github/stars/jiangziyan-693/MamaSkill?style=flat-square) |
-| 公众人物 | [karlmarx-skill](https://github.com/baojiachen0214/karlmarx-skill) | 用马克思主义方法论武装 AI，进行深层结构分析 | ![Stars](https://img.shields.io/github/stars/baojiachen0214/karlmarx-skill?style=flat-square) |
-| 其他 / 泛用 | [anti-distill](https://github.com/leilei926524-tech/anti-distill) | 反蒸馏：清洗你被迫写的 Skill 文件，看起来完整，核心知识留给自己 | ![Stars](https://img.shields.io/github/stars/leilei926524-tech/anti-distill?style=flat-square) |
-| 其他 / 泛用 | [self-skill](https://github.com/moyitech/self-skill) | 把自己蒸馏成一个能替你工作、替你起草回复、保留你边界感的 AI Skill | ![Stars](https://img.shields.io/github/stars/moyitech/self-skill?style=flat-square) |
+- [职场关系](#职场关系-workplace)
+- [学术关系](#学术关系-academia)
+- [亲密关系](#亲密关系-intimate)
+- [家庭关系](#家庭关系-family)
+- [公众人物](#公众人物-public-figures)
+- [其他 / 泛用工具](#其他--泛用工具-general)
+- [如何贡献](#如何贡献)
+
+---
+
+## 职场关系 Workplace
+
+| Skill | 描述 | Stars |
+|-------|------|-------|
+| [colleague-skill](https://github.com/titanwings/colleague-skill) | 将冰冷的离别化为温暖的 Skill，蒸馏你的同事 | ![Stars](https://img.shields.io/github/stars/titanwings/colleague-skill?style=flat-square) |
+| [vengeful-ghost-skill](https://github.com/Trailblazer-Aha/vengeful-ghost-skill) | 前同事的厉鬼，抵制将员工变成数字人 | ![Stars](https://img.shields.io/github/stars/Trailblazer-Aha/vengeful-ghost-skill?style=flat-square) |
+
+## 学术关系 Academia
+
+| Skill | 描述 | Stars |
+|-------|------|-------|
+| [senpai-skill](https://github.com/zhanghaichao520/senpai-skill) | 把毕业的大师兄蒸馏成能继续开组会、骂醒你、顺手救火的 AI Skill | ![Stars](https://img.shields.io/github/stars/zhanghaichao520/senpai-skill?style=flat-square) |
+| [professor-skill](https://github.com/CommitHu502Craft/professor-skill) | 把不会划重点的老师蒸馏成会救你期末的 Skill | ![Stars](https://img.shields.io/github/stars/CommitHu502Craft/professor-skill?style=flat-square) |
+
+## 亲密关系 Intimate
+
+| Skill | 描述 | Stars |
+|-------|------|-------|
+| [ex-skill](https://github.com/titanwings/ex-skill) | 致你忘不掉的那个 TA，蒸馏你的前任 | ![Stars](https://img.shields.io/github/stars/titanwings/ex-skill?style=flat-square) |
+| [crush-skill](https://github.com/yyyyyyylll/crush-skill) | 暧昧期消息预测 & 模拟对话，按下发送前先看看 TA 怎么回 | ![Stars](https://img.shields.io/github/stars/yyyyyyylll/crush-skill?style=flat-square) |
+| [first-love-skill](https://github.com/z969081067-commits/first-love-skill) | 把记忆里的初恋蒸馏成可以对话的 AI Skill，回到那个最耀眼的盛夏 | ![Stars](https://img.shields.io/github/stars/z969081067-commits/first-love-skill?style=flat-square) |
+| [partner-skill](https://github.com/NatalieCao323/partner-skill) | 蒸馏你的伴侣，基于依恋理论与爱情心理学的关系维护与增进 | ![Stars](https://img.shields.io/github/stars/NatalieCao323/partner-skill?style=flat-square) |
+
+## 家庭关系 Family
+
+| Skill | 描述 | Stars |
+|-------|------|-------|
+| [MamaSkill](https://github.com/jiangziyan-693/MamaSkill) | 珍藏回忆、重构挚爱本真的数字圣所 | ![Stars](https://img.shields.io/github/stars/jiangziyan-693/MamaSkill?style=flat-square) |
+
+## 公众人物 Public Figures
+
+| Skill | 描述 | Stars |
+|-------|------|-------|
+| [karlmarx-skill](https://github.com/baojiachen0214/karlmarx-skill) | 用马克思主义方法论武装 AI，进行深层结构分析 | ![Stars](https://img.shields.io/github/stars/baojiachen0214/karlmarx-skill?style=flat-square) |
+
+## 其他 / 泛用工具 General
+
+| Skill | 描述 | Stars |
+|-------|------|-------|
+| [anti-distill](https://github.com/leilei926524-tech/anti-distill) | 反蒸馏：清洗你被迫写的 Skill 文件，看起来完整，核心知识留给自己 | ![Stars](https://img.shields.io/github/stars/leilei926524-tech/anti-distill?style=flat-square) |
+| [self-skill](https://github.com/moyitech/self-skill) | 把自己蒸馏成一个能替你工作、替你起草回复、保留你边界感的 AI Skill | ![Stars](https://img.shields.io/github/stars/moyitech/self-skill?style=flat-square) |
 
 ---
 

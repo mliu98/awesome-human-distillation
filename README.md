@@ -46,6 +46,7 @@
 | Skill | 描述 | Stars |
 |-------|------|-------|
 | [senpai-skill](https://github.com/zhanghaichao520/senpai-skill) | 把毕业的大师兄蒸馏成能继续开组会、骂醒你、顺手救火的 AI Skill | ![Stars](https://img.shields.io/github/stars/zhanghaichao520/senpai-skill?style=flat-square) |
+| [professor-skill](https://github.com/CommitHu502Craft/professor-skill) | 把不会划重点的老师蒸馏成会救你期末的 Skill | ![Stars](https://img.shields.io/github/stars/CommitHu502Craft/professor-skill?style=flat-square) |
 
 ## 亲密关系 Intimate
 

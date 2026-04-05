@@ -45,6 +45,7 @@ Take a real person who existed in your life — a colleague, a mentor, an ex, a 
 | Skill | Description | Stars |
 |-------|-------------|-------|
 | [senpai-skill](https://github.com/zhanghaichao520/senpai-skill) | Distill your graduated senpai — still runs lab meetings, still roasts you, still saves the day | ![Stars](https://img.shields.io/github/stars/zhanghaichao520/senpai-skill?style=flat-square) |
+| [professor-skill](https://github.com/CommitHu502Craft/professor-skill) | Distill your professor into a Skill that actually tells you what's on the exam | ![Stars](https://img.shields.io/github/stars/CommitHu502Craft/professor-skill?style=flat-square) |
 
 ## Intimate
 

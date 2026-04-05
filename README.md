@@ -53,6 +53,8 @@
 |-------|------|-------|
 | [ex-skill](https://github.com/titanwings/ex-skill) | 致你忘不掉的那个 TA，蒸馏你的前任 | ![Stars](https://img.shields.io/github/stars/titanwings/ex-skill?style=flat-square) |
 | [crush-skill](https://github.com/yyyyyyylll/crush-skill) | 暧昧期消息预测 & 模拟对话，按下发送前先看看 TA 怎么回 | ![Stars](https://img.shields.io/github/stars/yyyyyyylll/crush-skill?style=flat-square) |
+| [first-love-skill](https://github.com/z969081067-commits/first-love-skill) | 把记忆里的初恋蒸馏成可以对话的 AI Skill，回到那个最耀眼的盛夏 | ![Stars](https://img.shields.io/github/stars/z969081067-commits/first-love-skill?style=flat-square) |
+| [partner-skill](https://github.com/NatalieCao323/partner-skill) | 蒸馏你的伴侣，基于依恋理论与爱情心理学的关系维护与增进 | ![Stars](https://img.shields.io/github/stars/NatalieCao323/partner-skill?style=flat-square) |
 
 ## 家庭关系 Family
 
@@ -62,13 +64,16 @@
 
 ## 公众人物 Public Figures
 
-*暂无条目。[欢迎提交](https://github.com/mliu98/awesome-human-distillation/issues/new?template=add-skill.yml)*
+| Skill | 描述 | Stars |
+|-------|------|-------|
+| [karlmarx-skill](https://github.com/baojiachen0214/karlmarx-skill) | 用马克思主义方法论武装 AI，进行深层结构分析 | ![Stars](https://img.shields.io/github/stars/baojiachen0214/karlmarx-skill?style=flat-square) |
 
 ## 其他 / 泛用工具 General
 
 | Skill | 描述 | Stars |
 |-------|------|-------|
 | [anti-distill](https://github.com/leilei926524-tech/anti-distill) | 反蒸馏：清洗你被迫写的 Skill 文件，看起来完整，核心知识留给自己 | ![Stars](https://img.shields.io/github/stars/leilei926524-tech/anti-distill?style=flat-square) |
+| [self-skill](https://github.com/moyitech/self-skill) | 把自己蒸馏成一个能替你工作、替你起草回复、保留你边界感的 AI Skill | ![Stars](https://img.shields.io/github/stars/moyitech/self-skill?style=flat-square) |
 
 ---
 

@@ -52,6 +52,8 @@ Take a real person who existed in your life — a colleague, a mentor, an ex, a 
 |-------|-------------|-------|
 | [ex-skill](https://github.com/titanwings/ex-skill) | Distill the one you can't forget | ![Stars](https://img.shields.io/github/stars/titanwings/ex-skill?style=flat-square) |
 | [crush-skill](https://github.com/yyyyyyylll/crush-skill) | Predict your crush's reply before you hit send | ![Stars](https://img.shields.io/github/stars/yyyyyyylll/crush-skill?style=flat-square) |
+| [first-love-skill](https://github.com/z969081067-commits/first-love-skill) | Distill your first love into a callable AI Skill — swim upstream, back to that blazing summer | ![Stars](https://img.shields.io/github/stars/z969081067-commits/first-love-skill?style=flat-square) |
+| [partner-skill](https://github.com/NatalieCao323/partner-skill) | Distill your partner into a living AI Skill — relationship maintenance powered by attachment theory and love psychology | ![Stars](https://img.shields.io/github/stars/NatalieCao323/partner-skill?style=flat-square) |
 
 ## Family
 
@@ -61,13 +63,16 @@ Take a real person who existed in your life — a colleague, a mentor, an ex, a 
 
 ## Public Figures
 
-*No entries yet. [Submit one](https://github.com/mliu98/awesome-human-distillation/issues/new?template=add-skill.yml)*
+| Skill | Description | Stars |
+|-------|-------------|-------|
+| [karlmarx-skill](https://github.com/baojiachen0214/karlmarx-skill) | Arming AI with Marxist methodology for deep structural analysis | ![Stars](https://img.shields.io/github/stars/baojiachen0214/karlmarx-skill?style=flat-square) |
 
 ## General / Tools
 
 | Skill | Description | Stars |
 |-------|-------------|-------|
 | [anti-distill](https://github.com/leilei926524-tech/anti-distill) | Anti-distillation: sanitize your forced Skill file — looks complete, core knowledge stays yours | ![Stars](https://img.shields.io/github/stars/leilei926524-tech/anti-distill?style=flat-square) |
+| [self-skill](https://github.com/moyitech/self-skill) | Distill yourself into a runnable AI Skill — drafts in your voice, works in your style, knows what only you can decide | ![Stars](https://img.shields.io/github/stars/moyitech/self-skill?style=flat-square) |
 
 ---
 

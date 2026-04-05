@@ -55,7 +55,9 @@ Take a real person who existed in your life — a colleague, a mentor, an ex, a 
 
 ## Family
 
-*No entries yet. [Submit one](https://github.com/mliu98/awesome-human-distillation/issues/new?template=add-skill.yml)*
+| Skill | Description | Stars |
+|-------|-------------|-------|
+| [MamaSkill](https://github.com/jiangziyan-693/MamaSkill) | A digital sanctuary for preserving memories and reconstructing the essence of loved ones | ![Stars](https://img.shields.io/github/stars/jiangziyan-693/MamaSkill?style=flat-square) |
 
 ## Public Figures
 

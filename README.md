@@ -56,7 +56,9 @@
 
 ## 家庭关系 Family
 
-*暂无条目。[欢迎提交](https://github.com/mliu98/awesome-human-distillation/issues/new?template=add-skill.yml)*
+| Skill | 描述 | Stars |
+|-------|------|-------|
+| [MamaSkill](https://github.com/jiangziyan-693/MamaSkill) | 珍藏回忆、重构挚爱本真的数字圣所 | ![Stars](https://img.shields.io/github/stars/jiangziyan-693/MamaSkill?style=flat-square) |
 
 ## 公众人物 Public Figures
 

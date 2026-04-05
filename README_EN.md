@@ -38,6 +38,7 @@ Take a real person who existed in your life — a colleague, a mentor, an ex, a 
 | Skill | Description | Stars |
 |-------|-------------|-------|
 | [colleague-skill](https://github.com/titanwings/colleague-skill) | Distill a departed colleague into a warm, callable skill | ![Stars](https://img.shields.io/github/stars/titanwings/colleague-skill?style=flat-square) |
+| [vengeful-ghost-skill](https://github.com/Trailblazer-Aha/vengeful-ghost-skill) | The vengeful ghost of your ex-colleague — resisting the digitization of workers | ![Stars](https://img.shields.io/github/stars/Trailblazer-Aha/vengeful-ghost-skill?style=flat-square) |
 
 ## Academia
 

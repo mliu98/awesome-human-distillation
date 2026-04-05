@@ -39,6 +39,7 @@
 | Skill | 描述 | Stars |
 |-------|------|-------|
 | [colleague-skill](https://github.com/titanwings/colleague-skill) | 将冰冷的离别化为温暖的 Skill，蒸馏你的同事 | ![Stars](https://img.shields.io/github/stars/titanwings/colleague-skill?style=flat-square) |
+| [vengeful-ghost-skill](https://github.com/Trailblazer-Aha/vengeful-ghost-skill) | 前同事的厉鬼，抵制将员工变成数字人 | ![Stars](https://img.shields.io/github/stars/Trailblazer-Aha/vengeful-ghost-skill?style=flat-square) |
 
 ## 学术关系 Academia
 

@@ -49,6 +49,7 @@
 | [senpai-skill](https://github.com/zhanghaichao520/senpai-skill) | [@zhanghaichao520](https://github.com/zhanghaichao520) | 把毕业的大师兄蒸馏成能继续开组会、骂醒你、顺手救火的 AI Skill | ![Stars](https://img.shields.io/github/stars/zhanghaichao520/senpai-skill?style=flat-square) |
 | [professor-skill](https://github.com/CommitHu502Craft/professor-skill) | [@CommitHu502Craft](https://github.com/CommitHu502Craft) | 把不会划重点的老师蒸馏成会救你期末的 Skill | ![Stars](https://img.shields.io/github/stars/CommitHu502Craft/professor-skill?style=flat-square) |
 | [supervisor](https://github.com/ybq22/supervisor) | [@ybq22](https://github.com/ybq22) | 把导师蒸馏成随时可问的 AI Skill | ![Stars](https://img.shields.io/github/stars/ybq22/supervisor?style=flat-square) |
+| [Professor_skill](https://github.com/Azurboy/Professor_skill) | [@Azurboy](https://github.com/Azurboy) | 那一天，人们终于回想起了写论文时被导师支配的恐惧…… | ![Stars](https://img.shields.io/github/stars/Azurboy/Professor_skill?style=flat-square) |
 
 ## 亲密关系 Intimate
 

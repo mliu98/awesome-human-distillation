@@ -48,6 +48,7 @@ Take a real person who existed in your life — a colleague, a mentor, an ex, a 
 | [senpai-skill](https://github.com/zhanghaichao520/senpai-skill) | [@zhanghaichao520](https://github.com/zhanghaichao520) | Distill your graduated senpai — still runs lab meetings, still roasts you, still saves the day | ![Stars](https://img.shields.io/github/stars/zhanghaichao520/senpai-skill?style=flat-square) |
 | [professor-skill](https://github.com/CommitHu502Craft/professor-skill) | [@CommitHu502Craft](https://github.com/CommitHu502Craft) | Distill your professor into a Skill that actually tells you what's on the exam | ![Stars](https://img.shields.io/github/stars/CommitHu502Craft/professor-skill?style=flat-square) |
 | [supervisor](https://github.com/ybq22/supervisor) | [@ybq22](https://github.com/ybq22) | Distill your supervisor into an always-available AI Skill | ![Stars](https://img.shields.io/github/stars/ybq22/supervisor?style=flat-square) |
+| [Professor_skill](https://github.com/Azurboy/Professor_skill) | [@Azurboy](https://github.com/Azurboy) | That day, humanity remembered the terror of writing a thesis under a supervisor's reign | ![Stars](https://img.shields.io/github/stars/Azurboy/Professor_skill?style=flat-square) |
 
 ## Intimate
 

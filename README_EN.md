@@ -1,4 +1,4 @@
-# Awesome Human Distillation [![Awesome](https://awesome.re/badge.svg)](https://awesome.re) [![Skills](https://img.shields.io/badge/skills-26-brightgreen?style=flat-square)](#) [![GitHub stars](https://img.shields.io/github/stars/mliu98/awesome-human-distillation?style=flat-square)](https://github.com/mliu98/awesome-human-distillation/stargazers) [![GitHub last commit](https://img.shields.io/github/last-commit/mliu98/awesome-human-distillation?style=flat-square)](https://github.com/mliu98/awesome-human-distillation/commits/main) [![GitHub issues](https://img.shields.io/github/issues/mliu98/awesome-human-distillation?style=flat-square&label=submissions)](https://github.com/mliu98/awesome-human-distillation/issues)
+# Awesome Human Distillation [![Awesome](https://awesome.re/badge.svg)](https://awesome.re) [![Skills](https://img.shields.io/badge/skills-28-brightgreen?style=flat-square)](#) [![GitHub stars](https://img.shields.io/github/stars/mliu98/awesome-human-distillation?style=flat-square)](https://github.com/mliu98/awesome-human-distillation/stargazers) [![GitHub last commit](https://img.shields.io/github/last-commit/mliu98/awesome-human-distillation?style=flat-square)](https://github.com/mliu98/awesome-human-distillation/commits/main) [![GitHub issues](https://img.shields.io/github/issues/mliu98/awesome-human-distillation?style=flat-square&label=submissions)](https://github.com/mliu98/awesome-human-distillation/issues)
 
 [中文](README.md)
 
@@ -40,6 +40,7 @@ Take a real person who existed in your life — a colleague, a mentor, an ex, a 
 | 女娲.skill | [nuwa-skill](https://github.com/alchaincyf/nuwa-skill) | [@alchaincyf](https://github.com/alchaincyf) | Distill how anyone thinks — mental models, decision heuristics, expressive DNA | ![Stars](https://img.shields.io/github/stars/alchaincyf/nuwa-skill?style=flat-square) |
 | 反蒸馏 Skill | [anti-distill](https://github.com/leilei926524-tech/anti-distill) | [@leilei926524-tech](https://github.com/leilei926524-tech) | Anti-distillation: sanitize your forced Skill file — looks complete, core knowledge stays yours | ![Stars](https://img.shields.io/github/stars/leilei926524-tech/anti-distill?style=flat-square) |
 | 自己.skill | [self-skill](https://github.com/moyitech/self-skill) | [@moyitech](https://github.com/moyitech) | Distill yourself into a runnable AI Skill — drafts in your voice, works in your style, knows what only you can decide | ![Stars](https://img.shields.io/github/stars/moyitech/self-skill?style=flat-square) |
+| 永生.skill | [immortal-skill](https://github.com/agenmod/immortal-skill) | [@agenmod](https://github.com/agenmod) | Rather than waiting to be distilled by others, distill yourself first — open-source digital immortality framework, distill anyone from 12+ platforms across 4 dimensions, with anti-distillation shield and distillation protocol | ![Stars](https://img.shields.io/github/stars/agenmod/immortal-skill?style=flat-square) |
 
 ## Workplace
 
@@ -75,6 +76,7 @@ Take a real person who existed in your life — a colleague, a mentor, an ex, a 
 | Name | Skill | Author | Description | Stars |
 |------|-------|--------|-------------|-------|
 | MamaSkill | [MamaSkill](https://github.com/jiangziyan-693/MamaSkill) | [@jiangziyan-693](https://github.com/jiangziyan-693) | A digital sanctuary for preserving memories and reconstructing the essence of loved ones | ![Stars](https://img.shields.io/github/stars/jiangziyan-693/MamaSkill?style=flat-square) |
+| 父母.skill | [parents-skills](https://github.com/xiaoheizi8/parents-skills) | [@xiaoheizi8](https://github.com/xiaoheizi8) | Feed your parents' chat logs and memories, generate an AI Skill that truly speaks like them — their catchphrases, their way of caring for you | ![Stars](https://img.shields.io/github/stars/xiaoheizi8/parents-skills?style=flat-square) |
 
 ## Public Figures
 

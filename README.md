@@ -1,5 +1,5 @@
 # Awesome Human Distillation 
-[![Awesome](https://awesome.re/badge.svg)](https://awesome.re) [![Skills](https://img.shields.io/badge/skills-26-brightgreen?style=flat-square)](#) [![GitHub stars](https://img.shields.io/github/stars/mliu98/awesome-human-distillation?style=flat-square)](https://github.com/mliu98/awesome-human-distillation/stargazers) [![GitHub last commit](https://img.shields.io/github/last-commit/mliu98/awesome-human-distillation?style=flat-square)](https://github.com/mliu98/awesome-human-distillation/commits/main) [![GitHub issues](https://img.shields.io/github/issues/mliu98/awesome-human-distillation?style=flat-square&label=submissions)](https://github.com/mliu98/awesome-human-distillation/issues)
+[![Awesome](https://awesome.re/badge.svg)](https://awesome.re) [![Skills](https://img.shields.io/badge/skills-28-brightgreen?style=flat-square)](#) [![GitHub stars](https://img.shields.io/github/stars/mliu98/awesome-human-distillation?style=flat-square)](https://github.com/mliu98/awesome-human-distillation/stargazers) [![GitHub last commit](https://img.shields.io/github/last-commit/mliu98/awesome-human-distillation?style=flat-square)](https://github.com/mliu98/awesome-human-distillation/commits/main) [![GitHub issues](https://img.shields.io/github/issues/mliu98/awesome-human-distillation?style=flat-square&label=submissions)](https://github.com/mliu98/awesome-human-distillation/issues)
 
 [English](README_EN.md)
 
@@ -42,6 +42,7 @@
 | 女娲.skill | [nuwa-skill](https://github.com/alchaincyf/nuwa-skill) | [@alchaincyf](https://github.com/alchaincyf) | 蒸馏任何人的思维方式——心智模型、决策启发式、表达 DNA | ![Stars](https://img.shields.io/github/stars/alchaincyf/nuwa-skill?style=flat-square) |
 | 反蒸馏 Skill | [anti-distill](https://github.com/leilei926524-tech/anti-distill) | [@leilei926524-tech](https://github.com/leilei926524-tech) | 反蒸馏：清洗你被迫写的 Skill 文件，看起来完整，核心知识留给自己 | ![Stars](https://img.shields.io/github/stars/leilei926524-tech/anti-distill?style=flat-square) |
 | 自己.skill | [self-skill](https://github.com/moyitech/self-skill) | [@moyitech](https://github.com/moyitech) | 把自己蒸馏成一个能替你工作、替你起草回复、保留你边界感的 AI Skill | ![Stars](https://img.shields.io/github/stars/moyitech/self-skill?style=flat-square) |
+| 永生.skill | [immortal-skill](https://github.com/agenmod/immortal-skill) | [@agenmod](https://github.com/agenmod) | 与其等着被别人蒸，不如先蒸自己——全网首个开源数字永生框架，支持蒸馏任何人，12+ 平台，四维蒸馏 + 防蒸馏 + 蒸馏协议 | ![Stars](https://img.shields.io/github/stars/agenmod/immortal-skill?style=flat-square) |
 
 ## 职场关系 Workplace
 
@@ -77,6 +78,7 @@
 | 名字 | Skill | 作者 | 描述 | Stars |
 |------|-------|------|------|-------|
 | MamaSkill | [MamaSkill](https://github.com/jiangziyan-693/MamaSkill) | [@jiangziyan-693](https://github.com/jiangziyan-693) | 珍藏回忆、重构挚爱本真的数字圣所 | ![Stars](https://img.shields.io/github/stars/jiangziyan-693/MamaSkill?style=flat-square) |
+| 父母.skill | [parents-skills](https://github.com/xiaoheizi8/parents-skills) | [@xiaoheizi8](https://github.com/xiaoheizi8) | 提供父母的聊天记录与记忆，生成真正像他们的 AI Skill——用他们的口头禅说话，用他们的方式关心你 | ![Stars](https://img.shields.io/github/stars/xiaoheizi8/parents-skills?style=flat-square) |
 
 ## 公众人物 Public Figures
 

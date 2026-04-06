@@ -79,6 +79,7 @@
 | [star-skill](https://github.com/yanghaoraneve/star-skill) | [@yanghaoraneve](https://github.com/yanghaoraneve) | 将歌手/偶像转化为可对话的 AI 数字人格 | ![Stars](https://img.shields.io/github/stars/yanghaoraneve/star-skill?style=flat-square) |
 | [up-skill](https://github.com/jiemojiemo/up-skill) | [@jiemojiemo](https://github.com/jiemojiemo) | 给一个 B 站主页链接，自动蒸馏出 UP 主的数字分身：语气、选题、节奏全复刻 | ![Stars](https://img.shields.io/github/stars/jiemojiemo/up-skill?style=flat-square) |
 | [Trump-skill](https://github.com/wwwttlll/Trump-skill) | [@wwwttlll](https://github.com/wwwttlll) | 想和特朗普来一场真实的对话 | ![Stars](https://img.shields.io/github/stars/wwwttlll/Trump-skill?style=flat-square) |
+| [hu-chen-feng-skill](https://github.com/123pyLeo/hu-chen-feng-skill) | [@123pyLeo](https://github.com/123pyLeo) | 蒸馏网红户晨风的现实主义判断框架：还原他看待职业、教育、买房、医疗等问题的质感 | ![Stars](https://img.shields.io/github/stars/123pyLeo/hu-chen-feng-skill?style=flat-square) |
 
 ## 其他 / 泛用工具 General
 

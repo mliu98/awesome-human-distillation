@@ -78,6 +78,7 @@ Take a real person who existed in your life — a colleague, a mentor, an ex, a 
 | [star-skill](https://github.com/yanghaoraneve/star-skill) | [@yanghaoraneve](https://github.com/yanghaoraneve) | Distill Chinese singers and idols into conversational AI personas | ![Stars](https://img.shields.io/github/stars/yanghaoraneve/star-skill?style=flat-square) |
 | [up-skill](https://github.com/jiemojiemo/up-skill) | [@jiemojiemo](https://github.com/jiemojiemo) | Give a Bilibili channel URL, auto-distill the creator's digital twin — tone, topics, rhythm, all replicated | ![Stars](https://img.shields.io/github/stars/jiemojiemo/up-skill?style=flat-square) |
 | [Trump-skill](https://github.com/wwwttlll/Trump-skill) | [@wwwttlll](https://github.com/wwwttlll) | Have a real conversation with Donald Trump | ![Stars](https://img.shields.io/github/stars/wwwttlll/Trump-skill?style=flat-square) |
+| [hu-chen-feng-skill](https://github.com/123pyLeo/hu-chen-feng-skill) | [@123pyLeo](https://github.com/123pyLeo) | Distill influencer Hu Chenfeng's realist framework — career, education, housing, healthcare, all stripped of illusion | ![Stars](https://img.shields.io/github/stars/123pyLeo/hu-chen-feng-skill?style=flat-square) |
 
 ## General / Tools
 

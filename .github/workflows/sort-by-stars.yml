@@ -24,12 +24,15 @@ jobs:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         run: python scripts/sort_by_stars.py README.md README_EN.md
 
+      - name: Update skill count badge
+        run: python scripts/update_skill_count.py
+
       - name: Commit if changed
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
           git diff --quiet && echo "No changes" || (
             git add README.md README_EN.md &&
-            git commit -m "chore: sort skills by stars [skip ci]" &&
+            git commit -m "chore: sort skills by stars, update skill count [skip ci]" &&
             git push
           )

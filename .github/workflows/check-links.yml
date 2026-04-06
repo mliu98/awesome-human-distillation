@@ -1,0 +1,48 @@
+name: Check dead links
+
+on:
+  schedule:
+    - cron: "0 3 * * 1"  # every Monday at 03:00 UTC
+  workflow_dispatch:
+
+jobs:
+  check:
+    runs-on: ubuntu-latest
+
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+
+      - name: Check links
+        id: check
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: |
+          output=$(python scripts/check_links.py 2>/dev/null)
+          echo "$output"
+          if [ -n "$output" ]; then
+            echo "dead_links<<EOF" >> $GITHUB_OUTPUT
+            echo "$output" >> $GITHUB_OUTPUT
+            echo "EOF" >> $GITHUB_OUTPUT
+            echo "has_dead=true" >> $GITHUB_OUTPUT
+          else
+            echo "has_dead=false" >> $GITHUB_OUTPUT
+          fi
+
+      - name: Open issue if dead links found
+        if: steps.check.outputs.has_dead == 'true'
+        uses: actions/github-script@v7
+        with:
+          script: |
+            const body = `## Dead links detected\n\nThe following repos appear to be unavailable:\n\n\`\`\`\n${{ steps.check.outputs.dead_links }}\n\`\`\`\n\nPlease remove or update these entries.`;
+            await github.rest.issues.create({
+              owner: context.repo.owner,
+              repo: context.repo.repo,
+              title: "🔗 Dead links detected",
+              body,
+              labels: ["dead-link"],
+            });

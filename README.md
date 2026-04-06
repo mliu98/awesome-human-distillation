@@ -59,6 +59,7 @@
 | [first-love-skill](https://github.com/z969081067-commits/first-love-skill) | [@z969081067-commits](https://github.com/z969081067-commits) | 把记忆里的初恋蒸馏成可以对话的 AI Skill，回到那个最耀眼的盛夏 | ![Stars](https://img.shields.io/github/stars/z969081067-commits/first-love-skill?style=flat-square) |
 | [partner-skill](https://github.com/NatalieCao323/partner-skill) | [@NatalieCao323](https://github.com/NatalieCao323) | 蒸馏你的伴侣，基于依恋理论与爱情心理学的关系维护与增进 | ![Stars](https://img.shields.io/github/stars/NatalieCao323/partner-skill?style=flat-square) |
 | [relationship-training-skill](https://github.com/TammyTan516/relationship-training-skill) | [@TammyTan516](https://github.com/TammyTan516) | 在健康的关系中学会正确表达情绪与爱，祝天下有情人终成眷属 | ![Stars](https://img.shields.io/github/stars/TammyTan516/relationship-training-skill?style=flat-square) |
+| [xinyi](https://github.com/kroxchan/xinyi) | [@kroxchan](https://github.com/kroxchan) | 发出去之前先译一下，基于真实微信聊天记录的关系理解工具 | ![Stars](https://img.shields.io/github/stars/kroxchan/xinyi?style=flat-square) |
 
 ## 家庭关系 Family
 

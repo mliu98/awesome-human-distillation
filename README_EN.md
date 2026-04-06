@@ -58,6 +58,7 @@ Take a real person who existed in your life — a colleague, a mentor, an ex, a 
 | [first-love-skill](https://github.com/z969081067-commits/first-love-skill) | [@z969081067-commits](https://github.com/z969081067-commits) | Distill your first love into a callable AI Skill — swim upstream, back to that blazing summer | ![Stars](https://img.shields.io/github/stars/z969081067-commits/first-love-skill?style=flat-square) |
 | [partner-skill](https://github.com/NatalieCao323/partner-skill) | [@NatalieCao323](https://github.com/NatalieCao323) | Distill your partner into a living AI Skill — relationship maintenance powered by attachment theory and love psychology | ![Stars](https://img.shields.io/github/stars/NatalieCao323/partner-skill?style=flat-square) |
 | [relationship-training-skill](https://github.com/TammyTan516/relationship-training-skill) | [@TammyTan516](https://github.com/TammyTan516) | Learn to express emotions and love in a healthy relationship — may all lovers find their way to each other | ![Stars](https://img.shields.io/github/stars/TammyTan516/relationship-training-skill?style=flat-square) |
+| [xinyi](https://github.com/kroxchan/xinyi) | [@kroxchan](https://github.com/kroxchan) | Translate what they really mean before you hit send — a relationship decoder built on real WeChat logs | ![Stars](https://img.shields.io/github/stars/kroxchan/xinyi?style=flat-square) |
 
 ## Family
 

@@ -69,7 +69,7 @@
 | Skill | 作者 | 描述 | Stars |
 |-------|------|------|-------|
 | [karlmarx-skill](https://github.com/baojiachen0214/karlmarx-skill) | [@baojiachen0214](https://github.com/baojiachen0214) | 用马克思主义方法论武装 AI，进行深层结构分析 | ![Stars](https://img.shields.io/github/stars/baojiachen0214/karlmarx-skill?style=flat-square) |
-| [fengge-wangmingtianya-perspective](https://github.com/rottenpen/fengge-wangmingtianya-perspective) | [@rottenpen](https://github.com/rottenpen) | 蒸馏键政主播峰哥亡命天涯的表达风格：先下结论、现实主义去魅、黑色幽默 | ![Stars](https://img.shields.io/github/stars/rottenpen/fengge-wangmingtianya-perspective?style=flat-square) |
+| [fengge-wangmingtianya-perspective](https://github.com/rottenpen/fengge-wangmingtianya-perspective) | [@rottenpen](https://github.com/rottenpen) | 蒸馏主播峰哥亡命天涯的表达风格：先下结论、现实主义去魅、黑色幽默 | ![Stars](https://img.shields.io/github/stars/rottenpen/fengge-wangmingtianya-perspective?style=flat-square) |
 
 ## 其他 / 泛用工具 General
 

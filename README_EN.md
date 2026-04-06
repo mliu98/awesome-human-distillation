@@ -68,7 +68,7 @@ Take a real person who existed in your life — a colleague, a mentor, an ex, a 
 | Skill | Author | Description | Stars |
 |-------|--------|-------------|-------|
 | [karlmarx-skill](https://github.com/baojiachen0214/karlmarx-skill) | [@baojiachen0214](https://github.com/baojiachen0214) | Arming AI with Marxist methodology for deep structural analysis | ![Stars](https://img.shields.io/github/stars/baojiachen0214/karlmarx-skill?style=flat-square) |
-| [fengge-wangmingtianya-perspective](https://github.com/rottenpen/fengge-wangmingtianya-perspective) | [@rottenpen](https://github.com/rottenpen) | Distill the style of Chinese political commentator Fengge — blunt conclusions, realist demystification, dark humor | ![Stars](https://img.shields.io/github/stars/rottenpen/fengge-wangmingtianya-perspective?style=flat-square) |
+| [fengge-wangmingtianya-perspective](https://github.com/rottenpen/fengge-wangmingtianya-perspective) | [@rottenpen](https://github.com/rottenpen) | Distill the style of Chinese influencer Fengge — blunt conclusions, realist demystification, dark humor | ![Stars](https://img.shields.io/github/stars/rottenpen/fengge-wangmingtianya-perspective?style=flat-square) |
 
 ## General / Tools
 

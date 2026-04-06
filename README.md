@@ -40,6 +40,7 @@
 |-------|------|------|-------|
 | [colleague-skill](https://github.com/titanwings/colleague-skill) | [@titanwings](https://github.com/titanwings) | 将冰冷的离别化为温暖的 Skill，蒸馏你的同事 | ![Stars](https://img.shields.io/github/stars/titanwings/colleague-skill?style=flat-square) |
 | [vengeful-ghost-skill](https://github.com/Trailblazer-Aha/vengeful-ghost-skill) | [@Trailblazer-Aha](https://github.com/Trailblazer-Aha) | 前同事的厉鬼，抵制将员工变成数字人 | ![Stars](https://img.shields.io/github/stars/Trailblazer-Aha/vengeful-ghost-skill?style=flat-square) |
+| [boss-skills](https://github.com/vogtsw/boss-skills) | [@vogtsw](https://github.com/vogtsw) | 把老板炼入 token，把生产力的解放留给自己 | ![Stars](https://img.shields.io/github/stars/vogtsw/boss-skills?style=flat-square) |
 
 ## 学术关系 Academia
 

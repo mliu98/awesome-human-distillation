@@ -1,4 +1,4 @@
-# Awesome Human Distillation [![Awesome](https://awesome.re/badge.svg)](https://awesome.re) [![Skills](https://img.shields.io/badge/skills-28-brightgreen?style=flat-square)](#) [![GitHub stars](https://img.shields.io/github/stars/mliu98/awesome-human-distillation?style=flat-square)](https://github.com/mliu98/awesome-human-distillation/stargazers) [![GitHub last commit](https://img.shields.io/github/last-commit/mliu98/awesome-human-distillation?style=flat-square)](https://github.com/mliu98/awesome-human-distillation/commits/main) [![GitHub issues](https://img.shields.io/github/issues/mliu98/awesome-human-distillation?style=flat-square&label=submissions)](https://github.com/mliu98/awesome-human-distillation/issues)
+# Awesome Human Distillation [![Awesome](https://awesome.re/badge.svg)](https://awesome.re) [![Skills](https://img.shields.io/badge/skills-30-brightgreen?style=flat-square)](#) [![GitHub stars](https://img.shields.io/github/stars/mliu98/awesome-human-distillation?style=flat-square)](https://github.com/mliu98/awesome-human-distillation/stargazers) [![GitHub last commit](https://img.shields.io/github/last-commit/mliu98/awesome-human-distillation?style=flat-square)](https://github.com/mliu98/awesome-human-distillation/commits/main) [![GitHub issues](https://img.shields.io/github/issues/mliu98/awesome-human-distillation?style=flat-square&label=submissions)](https://github.com/mliu98/awesome-human-distillation/issues)
 
 [中文](README.md)
 
@@ -41,6 +41,7 @@ Take a real person who existed in your life — a colleague, a mentor, an ex, a 
 | 反蒸馏 Skill | [anti-distill](https://github.com/leilei926524-tech/anti-distill) | [@leilei926524-tech](https://github.com/leilei926524-tech) | Anti-distillation: sanitize your forced Skill file — looks complete, core knowledge stays yours | ![Stars](https://img.shields.io/github/stars/leilei926524-tech/anti-distill?style=flat-square) |
 | 自己.skill | [self-skill](https://github.com/moyitech/self-skill) | [@moyitech](https://github.com/moyitech) | Distill yourself into a runnable AI Skill — drafts in your voice, works in your style, knows what only you can decide | ![Stars](https://img.shields.io/github/stars/moyitech/self-skill?style=flat-square) |
 | 永生.skill | [immortal-skill](https://github.com/agenmod/immortal-skill) | [@agenmod](https://github.com/agenmod) | Rather than waiting to be distilled by others, distill yourself first — open-source digital immortality framework, distill anyone from 12+ platforms across 4 dimensions, with anti-distillation shield and distillation protocol | ![Stars](https://img.shields.io/github/stars/agenmod/immortal-skill?style=flat-square) |
+| 数字人生.skills | [digital-life](https://github.com/wildbyteai/digital-life) | [@wildbyteai](https://github.com/wildbyteai) | See your true self through your digital traces — 5 archaeology tools (past life, cringe archaeology, AI clone, legacy audit, epitaph), evidence first, no empty encouragement | ![Stars](https://img.shields.io/github/stars/wildbyteai/digital-life?style=flat-square) |
 
 ## Workplace
 
@@ -77,6 +78,7 @@ Take a real person who existed in your life — a colleague, a mentor, an ex, a 
 |------|-------|--------|-------------|-------|
 | MamaSkill | [MamaSkill](https://github.com/jiangziyan-693/MamaSkill) | [@jiangziyan-693](https://github.com/jiangziyan-693) | A digital sanctuary for preserving memories and reconstructing the essence of loved ones | ![Stars](https://img.shields.io/github/stars/jiangziyan-693/MamaSkill?style=flat-square) |
 | 父母.skill | [parents-skills](https://github.com/xiaoheizi8/parents-skills) | [@xiaoheizi8](https://github.com/xiaoheizi8) | Feed your parents' chat logs and memories, generate an AI Skill that truly speaks like them — their catchphrases, their way of caring for you | ![Stars](https://img.shields.io/github/stars/xiaoheizi8/parents-skills?style=flat-square) |
+| 重逢.skill | [reunion-skill](https://github.com/yangdongchen66-boop/reunion-skill) | [@yangdongchen66-boop](https://github.com/yangdongchen66-boop) | Death is not the end, forgetting is — distill a lost loved one into an emotionally faithful digital companion, fully local with built-in psychological safeguards | ![Stars](https://img.shields.io/github/stars/yangdongchen66-boop/reunion-skill?style=flat-square) |
 
 ## Public Figures
 

@@ -76,6 +76,7 @@ Take a real person who existed in your life — a colleague, a mentor, an ex, a 
 | [qiushi-skill](https://github.com/HughYau/qiushi-skill) | [@HughYau](https://github.com/HughYau) | Distill Mao Zedong's thought into one master principle and nine methodological tools to systematically arm AI | ![Stars](https://img.shields.io/github/stars/HughYau/qiushi-skill?style=flat-square) |
 | [star-skill](https://github.com/yanghaoraneve/star-skill) | [@yanghaoraneve](https://github.com/yanghaoraneve) | Distill Chinese singers and idols into conversational AI personas | ![Stars](https://img.shields.io/github/stars/yanghaoraneve/star-skill?style=flat-square) |
 | [up-skill](https://github.com/jiemojiemo/up-skill) | [@jiemojiemo](https://github.com/jiemojiemo) | Give a Bilibili channel URL, auto-distill the creator's digital twin — tone, topics, rhythm, all replicated | ![Stars](https://img.shields.io/github/stars/jiemojiemo/up-skill?style=flat-square) |
+| [Trump-skill](https://github.com/wwwttlll/Trump-skill) | [@wwwttlll](https://github.com/wwwttlll) | Have a real conversation with Donald Trump | ![Stars](https://img.shields.io/github/stars/wwwttlll/Trump-skill?style=flat-square) |
 
 ## General / Tools
 

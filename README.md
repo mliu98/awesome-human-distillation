@@ -60,6 +60,7 @@
 | [partner-skill](https://github.com/NatalieCao323/partner-skill) | [@NatalieCao323](https://github.com/NatalieCao323) | 蒸馏你的伴侣，基于依恋理论与爱情心理学的关系维护与增进 | ![Stars](https://img.shields.io/github/stars/NatalieCao323/partner-skill?style=flat-square) |
 | [relationship-training-skill](https://github.com/TammyTan516/relationship-training-skill) | [@TammyTan516](https://github.com/TammyTan516) | 在健康的关系中学会正确表达情绪与爱，祝天下有情人终成眷属 | ![Stars](https://img.shields.io/github/stars/TammyTan516/relationship-training-skill?style=flat-square) |
 | [xinyi](https://github.com/kroxchan/xinyi) | [@kroxchan](https://github.com/kroxchan) | 发出去之前先译一下，基于真实微信聊天记录的关系理解工具 | ![Stars](https://img.shields.io/github/stars/kroxchan/xinyi?style=flat-square) |
+| [npy-skill](https://github.com/wwwttlll/npy-skill) | [@wwwttlll](https://github.com/wwwttlll) | 描述你理想中的 TA，生成一个真正让你感受到爱的数字伴侣 Skill | ![Stars](https://img.shields.io/github/stars/wwwttlll/npy-skill?style=flat-square) |
 
 ## 家庭关系 Family
 

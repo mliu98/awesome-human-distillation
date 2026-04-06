@@ -38,25 +38,25 @@
 
 | 名字 | Skill | 作者 | 描述 | Stars |
 |------|-------|------|------|-------|
+| 女娲.skill | [nuwa-skill](https://github.com/alchaincyf/nuwa-skill) | [@alchaincyf](https://github.com/alchaincyf) | 蒸馏任何人的思维方式——心智模型、决策启发式、表达 DNA | ![Stars](https://img.shields.io/github/stars/alchaincyf/nuwa-skill?style=flat-square) |
 | 反蒸馏 Skill | [anti-distill](https://github.com/leilei926524-tech/anti-distill) | [@leilei926524-tech](https://github.com/leilei926524-tech) | 反蒸馏：清洗你被迫写的 Skill 文件，看起来完整，核心知识留给自己 | ![Stars](https://img.shields.io/github/stars/leilei926524-tech/anti-distill?style=flat-square) |
 | 自己.skill | [self-skill](https://github.com/moyitech/self-skill) | [@moyitech](https://github.com/moyitech) | 把自己蒸馏成一个能替你工作、替你起草回复、保留你边界感的 AI Skill | ![Stars](https://img.shields.io/github/stars/moyitech/self-skill?style=flat-square) |
-| 女娲.skill | [nuwa-skill](https://github.com/alchaincyf/nuwa-skill) | [@alchaincyf](https://github.com/alchaincyf) | 蒸馏任何人的思维方式——心智模型、决策启发式、表达 DNA | ![Stars](https://img.shields.io/github/stars/alchaincyf/nuwa-skill?style=flat-square) |
 
 ## 职场关系 Workplace
 
 | 名字 | Skill | 作者 | 描述 | Stars |
 |------|-------|------|------|-------|
 | 同事.skill | [colleague-skill](https://github.com/titanwings/colleague-skill) | [@titanwings](https://github.com/titanwings) | 将冰冷的离别化为温暖的 Skill，蒸馏你的同事 | ![Stars](https://img.shields.io/github/stars/titanwings/colleague-skill?style=flat-square) |
-| 厉鬼.skill | [vengeful-ghost-skill](https://github.com/Trailblazer-Aha/vengeful-ghost-skill) | [@Trailblazer-Aha](https://github.com/Trailblazer-Aha) | 前同事的厉鬼，抵制将员工变成数字人 | ![Stars](https://img.shields.io/github/stars/Trailblazer-Aha/vengeful-ghost-skill?style=flat-square) |
 | 老板.skills | [boss-skills](https://github.com/vogtsw/boss-skills) | [@vogtsw](https://github.com/vogtsw) | 把老板炼入 token，把生产力的解放留给自己 | ![Stars](https://img.shields.io/github/stars/vogtsw/boss-skills?style=flat-square) |
+| 厉鬼.skill | [vengeful-ghost-skill](https://github.com/Trailblazer-Aha/vengeful-ghost-skill) | [@Trailblazer-Aha](https://github.com/Trailblazer-Aha) | 前同事的厉鬼，抵制将员工变成数字人 | ![Stars](https://img.shields.io/github/stars/Trailblazer-Aha/vengeful-ghost-skill?style=flat-square) |
 
 ## 学术关系 Academia
 
 | 名字 | Skill | 作者 | 描述 | Stars |
 |------|-------|------|------|-------|
+| 导师.skill | [supervisor](https://github.com/ybq22/supervisor) | [@ybq22](https://github.com/ybq22) | 把导师蒸馏成随时可问的 AI Skill | ![Stars](https://img.shields.io/github/stars/ybq22/supervisor?style=flat-square) |
 | 师兄.skill | [senpai-skill](https://github.com/zhanghaichao520/senpai-skill) | [@zhanghaichao520](https://github.com/zhanghaichao520) | 把毕业的大师兄蒸馏成能继续开组会、骂醒你、顺手救火的 AI Skill | ![Stars](https://img.shields.io/github/stars/zhanghaichao520/senpai-skill?style=flat-square) |
 | 大学老师.skill | [professor-skill](https://github.com/CommitHu502Craft/professor-skill) | [@CommitHu502Craft](https://github.com/CommitHu502Craft) | 把不会划重点的老师蒸馏成会救你期末的 Skill | ![Stars](https://img.shields.io/github/stars/CommitHu502Craft/professor-skill?style=flat-square) |
-| 导师.skill | [supervisor](https://github.com/ybq22/supervisor) | [@ybq22](https://github.com/ybq22) | 把导师蒸馏成随时可问的 AI Skill | ![Stars](https://img.shields.io/github/stars/ybq22/supervisor?style=flat-square) |
 | 大学老师.skill | [Professor_skill](https://github.com/Azurboy/Professor_skill) | [@Azurboy](https://github.com/Azurboy) | 那一天，人们终于回想起了写论文时被导师支配的恐惧…… | ![Stars](https://img.shields.io/github/stars/Azurboy/Professor_skill?style=flat-square) |
 
 ## 亲密关系 Intimate
@@ -64,12 +64,12 @@
 | 名字 | Skill | 作者 | 描述 | Stars |
 |------|-------|------|------|-------|
 | 前任.skill | [ex-skill](https://github.com/titanwings/ex-skill) | [@titanwings](https://github.com/titanwings) | 致你忘不掉的那个 TA，蒸馏你的前任 | ![Stars](https://img.shields.io/github/stars/titanwings/ex-skill?style=flat-square) |
+| 恋爱训练营.skill | [relationship-training-skill](https://github.com/TammyTan516/relationship-training-skill) | [@TammyTan516](https://github.com/TammyTan516) | 在健康的关系中学会正确表达情绪与爱，祝天下有情人终成眷属 | ![Stars](https://img.shields.io/github/stars/TammyTan516/relationship-training-skill?style=flat-square) |
+| partner.skill | [npy-skill](https://github.com/wwwttlll/npy-skill) | [@wwwttlll](https://github.com/wwwttlll) | 描述你理想中的 TA，生成一个真正让你感受到爱的数字伴侣 Skill | ![Stars](https://img.shields.io/github/stars/wwwttlll/npy-skill?style=flat-square) |
 | crush.skill | [crush-skill](https://github.com/yyyyyyylll/crush-skill) | [@yyyyyyylll](https://github.com/yyyyyyylll) | 暧昧期消息预测 & 模拟对话，按下发送前先看看 TA 怎么回 | ![Stars](https://img.shields.io/github/stars/yyyyyyylll/crush-skill?style=flat-square) |
 | 初恋.skill | [first-love-skill](https://github.com/z969081067-commits/first-love-skill) | [@z969081067-commits](https://github.com/z969081067-commits) | 把记忆里的初恋蒸馏成可以对话的 AI Skill，回到那个最耀眼的盛夏 | ![Stars](https://img.shields.io/github/stars/z969081067-commits/first-love-skill?style=flat-square) |
 | 现任.skill | [partner-skill](https://github.com/NatalieCao323/partner-skill) | [@NatalieCao323](https://github.com/NatalieCao323) | 蒸馏你的伴侣，基于依恋理论与爱情心理学的关系维护与增进 | ![Stars](https://img.shields.io/github/stars/NatalieCao323/partner-skill?style=flat-square) |
-| 恋爱训练营.skill | [relationship-training-skill](https://github.com/TammyTan516/relationship-training-skill) | [@TammyTan516](https://github.com/TammyTan516) | 在健康的关系中学会正确表达情绪与爱，祝天下有情人终成眷属 | ![Stars](https://img.shields.io/github/stars/TammyTan516/relationship-training-skill?style=flat-square) |
 | 心译 | [xinyi](https://github.com/kroxchan/xinyi) | [@kroxchan](https://github.com/kroxchan) | 发出去之前先译一下，基于真实微信聊天记录的关系理解工具 | ![Stars](https://img.shields.io/github/stars/kroxchan/xinyi?style=flat-square) |
-| partner.skill | [npy-skill](https://github.com/wwwttlll/npy-skill) | [@wwwttlll](https://github.com/wwwttlll) | 描述你理想中的 TA，生成一个真正让你感受到爱的数字伴侣 Skill | ![Stars](https://img.shields.io/github/stars/wwwttlll/npy-skill?style=flat-square) |
 
 ## 家庭关系 Family
 
@@ -81,14 +81,14 @@
 
 | 名字 | Skill | 作者 | 描述 | Stars |
 |------|-------|------|------|-------|
-| 马克思.skill | [karlmarx-skill](https://github.com/baojiachen0214/karlmarx-skill) | [@baojiachen0214](https://github.com/baojiachen0214) | 用马克思主义方法论武装 AI，进行深层结构分析 | ![Stars](https://img.shields.io/github/stars/baojiachen0214/karlmarx-skill?style=flat-square) |
-| 峰哥亡命天涯.skill | [fengge-wangmingtianya-perspective](https://github.com/rottenpen/fengge-wangmingtianya-perspective) | [@rottenpen](https://github.com/rottenpen) | 蒸馏主播峰哥亡命天涯的表达风格：先下结论、现实主义去魅、黑色幽默 | ![Stars](https://img.shields.io/github/stars/rottenpen/fengge-wangmingtianya-perspective?style=flat-square) |
 | 求是Skill | [qiushi-skill](https://github.com/HughYau/qiushi-skill) | [@HughYau](https://github.com/HughYau) | 从教员思想中提炼一条总原则和九大方法论工具，系统性武装 AI 的大脑 | ![Stars](https://img.shields.io/github/stars/HughYau/qiushi-skill?style=flat-square) |
+| 峰哥亡命天涯.skill | [fengge-wangmingtianya-perspective](https://github.com/rottenpen/fengge-wangmingtianya-perspective) | [@rottenpen](https://github.com/rottenpen) | 蒸馏主播峰哥亡命天涯的表达风格：先下结论、现实主义去魅、黑色幽默 | ![Stars](https://img.shields.io/github/stars/rottenpen/fengge-wangmingtianya-perspective?style=flat-square) |
+| 户晨风.skill | [hu-chen-feng-skill](https://github.com/123pyLeo/hu-chen-feng-skill) | [@123pyLeo](https://github.com/123pyLeo) | 蒸馏网红户晨风的现实主义判断框架：还原他看待职业、教育、买房、医疗等问题的质感 | ![Stars](https://img.shields.io/github/stars/123pyLeo/hu-chen-feng-skill?style=flat-square) |
+| 马克思.skill | [karlmarx-skill](https://github.com/baojiachen0214/karlmarx-skill) | [@baojiachen0214](https://github.com/baojiachen0214) | 用马克思主义方法论武装 AI，进行深层结构分析 | ![Stars](https://img.shields.io/github/stars/baojiachen0214/karlmarx-skill?style=flat-square) |
 | 毛选.skill | [maoxuan-skill](https://github.com/leezythu/maoxuan-skill) | [@leezythu](https://github.com/leezythu) | 用毛泽东的思维框架分析问题、制定策略、看透本质——7个心智模型，不是复读语录 | ![Stars](https://img.shields.io/github/stars/leezythu/maoxuan-skill?style=flat-square) |
+| Trump.skill | [Trump-skill](https://github.com/wwwttlll/Trump-skill) | [@wwwttlll](https://github.com/wwwttlll) | 想和特朗普来一场真实的对话 | ![Stars](https://img.shields.io/github/stars/wwwttlll/Trump-skill?style=flat-square) |
 | 内娱.skill | [star-skill](https://github.com/yanghaoraneve/star-skill) | [@yanghaoraneve](https://github.com/yanghaoraneve) | 将歌手/偶像转化为可对话的 AI 数字人格 | ![Stars](https://img.shields.io/github/stars/yanghaoraneve/star-skill?style=flat-square) |
 | UP主.skill | [up-skill](https://github.com/jiemojiemo/up-skill) | [@jiemojiemo](https://github.com/jiemojiemo) | 给一个 B 站主页链接，自动蒸馏出 UP 主的数字分身：语气、选题、节奏全复刻 | ![Stars](https://img.shields.io/github/stars/jiemojiemo/up-skill?style=flat-square) |
-| Trump.skill | [Trump-skill](https://github.com/wwwttlll/Trump-skill) | [@wwwttlll](https://github.com/wwwttlll) | 想和特朗普来一场真实的对话 | ![Stars](https://img.shields.io/github/stars/wwwttlll/Trump-skill?style=flat-square) |
-| 户晨风.skill | [hu-chen-feng-skill](https://github.com/123pyLeo/hu-chen-feng-skill) | [@123pyLeo](https://github.com/123pyLeo) | 蒸馏网红户晨风的现实主义判断框架：还原他看待职业、教育、买房、医疗等问题的质感 | ![Stars](https://img.shields.io/github/stars/123pyLeo/hu-chen-feng-skill?style=flat-square) |
 
 ---
 

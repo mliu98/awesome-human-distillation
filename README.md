@@ -1,5 +1,5 @@
 # Awesome Human Distillation 
-[![Awesome](https://awesome.re/badge.svg)](https://awesome.re) [![Skills](https://img.shields.io/badge/skills-34-brightgreen?style=flat-square)](#) [![GitHub stars](https://img.shields.io/github/stars/mliu98/awesome-human-distillation?style=flat-square)](https://github.com/mliu98/awesome-human-distillation/stargazers) [![GitHub last commit](https://img.shields.io/github/last-commit/mliu98/awesome-human-distillation?style=flat-square)](https://github.com/mliu98/awesome-human-distillation/commits/main) [![GitHub issues](https://img.shields.io/github/issues/mliu98/awesome-human-distillation?style=flat-square&label=submissions)](https://github.com/mliu98/awesome-human-distillation/issues)
+[![Awesome](https://awesome.re/badge.svg)](https://awesome.re) [![Skills](https://img.shields.io/badge/skills-35-brightgreen?style=flat-square)](#) [![GitHub stars](https://img.shields.io/github/stars/mliu98/awesome-human-distillation?style=flat-square)](https://github.com/mliu98/awesome-human-distillation/stargazers) [![GitHub last commit](https://img.shields.io/github/last-commit/mliu98/awesome-human-distillation?style=flat-square)](https://github.com/mliu98/awesome-human-distillation/commits/main) [![GitHub issues](https://img.shields.io/github/issues/mliu98/awesome-human-distillation?style=flat-square&label=submissions)](https://github.com/mliu98/awesome-human-distillation/issues)
 
 [English](README_EN.md)
 
@@ -98,6 +98,7 @@
 | UP主.skill | [up-skill](https://github.com/jiemojiemo/up-skill) | [@jiemojiemo](https://github.com/jiemojiemo) | 给一个 B 站主页链接，自动蒸馏出 UP 主的数字分身：语气、选题、节奏全复刻 | ![Stars](https://img.shields.io/github/stars/jiemojiemo/up-skill?style=flat-square) |
 | 童锦程.skill | [tong-jincheng-skill](https://github.com/hotcoffeeshake/tong-jincheng-skill) | [@hotcoffeeshake](https://github.com/hotcoffeeshake) | 蒸馏情感博主童锦程的思维框架：吸引力法则、人性不可测试……用他的视角分析你的人际关系难题 | ![Stars](https://img.shields.io/github/stars/hotcoffeeshake/tong-jincheng-skill?style=flat-square) |
 | 张雪峰.skill | [zhangxuefeng-skill](https://github.com/alchaincyf/zhangxuefeng-skill) | [@alchaincyf](https://github.com/alchaincyf) | 蒸馏升学顾问张雪峰的认知框架：社会筛子理论、选择大于努力、中位数原则……用他的决策模型分析你的教育与职业问题 | ![Stars](https://img.shields.io/github/stars/alchaincyf/zhangxuefeng-skill?style=flat-square) |
+| 陈震.skill | [zhen-ge-skill](https://github.com/LBatsoft/zhen-ge-skill) | [@LBatsoft](https://github.com/LBatsoft) | 蒸馏汽车评测人陈震的三维分析框架（性能、质感、价值），还原「这你受得了吗」的选车逻辑与效率优先世界观 | ![Stars](https://img.shields.io/github/stars/LBatsoft/zhen-ge-skill?style=flat-square) |
 
 ---
 

@@ -1,5 +1,5 @@
 # Awesome Human Distillation 
-[![Awesome](https://awesome.re/badge.svg)](https://awesome.re) [![Skills](https://img.shields.io/badge/skills-31-brightgreen?style=flat-square)](#) [![GitHub stars](https://img.shields.io/github/stars/mliu98/awesome-human-distillation?style=flat-square)](https://github.com/mliu98/awesome-human-distillation/stargazers) [![GitHub last commit](https://img.shields.io/github/last-commit/mliu98/awesome-human-distillation?style=flat-square)](https://github.com/mliu98/awesome-human-distillation/commits/main) [![GitHub issues](https://img.shields.io/github/issues/mliu98/awesome-human-distillation?style=flat-square&label=submissions)](https://github.com/mliu98/awesome-human-distillation/issues)
+[![Awesome](https://awesome.re/badge.svg)](https://awesome.re) [![Skills](https://img.shields.io/badge/skills-32-brightgreen?style=flat-square)](#) [![GitHub stars](https://img.shields.io/github/stars/mliu98/awesome-human-distillation?style=flat-square)](https://github.com/mliu98/awesome-human-distillation/stargazers) [![GitHub last commit](https://img.shields.io/github/last-commit/mliu98/awesome-human-distillation?style=flat-square)](https://github.com/mliu98/awesome-human-distillation/commits/main) [![GitHub issues](https://img.shields.io/github/issues/mliu98/awesome-human-distillation?style=flat-square&label=submissions)](https://github.com/mliu98/awesome-human-distillation/issues)
 
 [English](README_EN.md)
 
@@ -74,6 +74,7 @@
 | 初恋.skill | [first-love-skill](https://github.com/z969081067-commits/first-love-skill) | [@z969081067-commits](https://github.com/z969081067-commits) | 把记忆里的初恋蒸馏成可以对话的 AI Skill，回到那个最耀眼的盛夏 | ![Stars](https://img.shields.io/github/stars/z969081067-commits/first-love-skill?style=flat-square) |
 | 现任.skill | [partner-skill](https://github.com/NatalieCao323/partner-skill) | [@NatalieCao323](https://github.com/NatalieCao323) | 蒸馏你的伴侣，基于依恋理论与爱情心理学的关系维护与增进 | ![Stars](https://img.shields.io/github/stars/NatalieCao323/partner-skill?style=flat-square) |
 | 心译 | [xinyi](https://github.com/kroxchan/xinyi) | [@kroxchan](https://github.com/kroxchan) | 发出去之前先译一下，基于真实微信聊天记录的关系理解工具 | ![Stars](https://img.shields.io/github/stars/kroxchan/xinyi?style=flat-square) |
+| 水仙.skill | [shuixian-skill](https://github.com/Cyh29hao/shuixian-skill) | [@Cyh29hao](https://github.com/Cyh29hao) | 把你的表达方式、思维方式和聊天记录蒸馏成一个可配置的浪漫自我镜像伴侣 Skill | ![Stars](https://img.shields.io/github/stars/Cyh29hao/shuixian-skill?style=flat-square) |
 
 ## 家庭关系 Family
 

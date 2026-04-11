@@ -76,8 +76,8 @@
 | 现任.skill | [partner-skill](https://github.com/NatalieCao323/partner-skill) | [@NatalieCao323](https://github.com/NatalieCao323) | 蒸馏你的伴侣，基于依恋理论与爱情心理学的关系维护与增进 | ![Stars](https://img.shields.io/github/stars/NatalieCao323/partner-skill?style=flat-square) |
 | 初恋.skill | [first-love-skill](https://github.com/z969081067-commits/first-love-skill) | [@z969081067-commits](https://github.com/z969081067-commits) | 把记忆里的初恋蒸馏成可以对话的 AI Skill，回到那个最耀眼的盛夏 | ![Stars](https://img.shields.io/github/stars/z969081067-commits/first-love-skill?style=flat-square) |
 | 水仙.skill | [shuixian-skill](https://github.com/Cyh29hao/shuixian-skill) | [@Cyh29hao](https://github.com/Cyh29hao) | 把你的表达方式、思维方式和聊天记录蒸馏成一个可配置的浪漫自我镜像伴侣 Skill | ![Stars](https://img.shields.io/github/stars/Cyh29hao/shuixian-skill?style=flat-square) |
-| 兄弟.skill | [brother-skill](https://github.com/realteamprinz/brother-skill) | [@realteamprinz](https://github.com/realteamprinz) | 从抖音、群聊、微信截图等来源蒸馏你的兄弟们——口头禅、说话方式、搞笑风格、混乱能量，支持8种兄弟原型自动识别 | ![Stars](https://img.shields.io/github/stars/realteamprinz/brother-skill?style=flat-square) |
 | 心译 | [xinyi](https://github.com/kroxchan/xinyi) | [@kroxchan](https://github.com/kroxchan) | 发出去之前先译一下，基于真实微信聊天记录的关系理解工具 | ![Stars](https://img.shields.io/github/stars/kroxchan/xinyi?style=flat-square) |
+| 兄弟.skill | [brother-skill](https://github.com/realteamprinz/brother-skill) | [@realteamprinz](https://github.com/realteamprinz) | 从抖音、群聊、微信截图等来源蒸馏你的兄弟们——口头禅、说话方式、搞笑风格、混乱能量，支持8种兄弟原型自动识别 | ![Stars](https://img.shields.io/github/stars/realteamprinz/brother-skill?style=flat-square) |
 
 ## 家庭关系 Family
 
@@ -98,11 +98,11 @@
 | 峰哥亡命天涯.skill | [fengge-wangmingtianya-perspective](https://github.com/rottenpen/fengge-wangmingtianya-perspective) | [@rottenpen](https://github.com/rottenpen) | 蒸馏主播峰哥亡命天涯的表达风格：先下结论、现实主义去魅、黑色幽默 | ![Stars](https://img.shields.io/github/stars/rottenpen/fengge-wangmingtianya-perspective?style=flat-square) |
 | 户晨风.skill | [hu-chen-feng-skill](https://github.com/123pyLeo/hu-chen-feng-skill) | [@123pyLeo](https://github.com/123pyLeo) | 蒸馏网红户晨风的现实主义判断框架：还原他看待职业、教育、买房、医疗等问题的质感 | ![Stars](https://img.shields.io/github/stars/123pyLeo/hu-chen-feng-skill?style=flat-square) |
 | Trump.skill | [Trump-skill](https://github.com/wwwttlll/Trump-skill) | [@wwwttlll](https://github.com/wwwttlll) | 想和特朗普来一场真实的对话 | ![Stars](https://img.shields.io/github/stars/wwwttlll/Trump-skill?style=flat-square) |
-| 马克思.skill | [karlmarx-skill](https://github.com/baojiachen0214/karlmarx-skill) | [@baojiachen0214](https://github.com/baojiachen0214) | 用马克思主义方法论武装 AI，进行深层结构分析 | ![Stars](https://img.shields.io/github/stars/baojiachen0214/karlmarx-skill?style=flat-square) |
-| 陈震.skill | [zhen-ge-skill](https://github.com/LBatsoft/zhen-ge-skill) | [@LBatsoft](https://github.com/LBatsoft) | 蒸馏汽车评测人陈震的三维分析框架（性能、质感、价值），还原「这你受得了吗」的选车逻辑与效率优先世界观 | ![Stars](https://img.shields.io/github/stars/LBatsoft/zhen-ge-skill?style=flat-square) |
-| 郭德纲.skill | [guodegang-skills](https://github.com/ByteRax/guodegang-skills) | [@ByteRax](https://github.com/ByteRax) | 基于3本一手著作全文分析和80+来源交叉验证，蒸馏郭德纲的认知操作系统——6个核心心智模型、10条决策启发式和完整表达DNA | ![Stars](https://img.shields.io/github/stars/ByteRax/guodegang-skills?style=flat-square) |
 | 孙哥.skill | [Cyber-Sun-Ge](https://github.com/xuzhouli2020-design/Cyber-Sun-Ge) | [@xuzhouli2020-design](https://github.com/xuzhouli2020-design) | 蒸馏了孙宇晨在互联网上的语料，能为你提供第一手孙学人生指导 | ![Stars](https://img.shields.io/github/stars/xuzhouli2020-design/Cyber-Sun-Ge?style=flat-square) |
+| 马克思.skill | [karlmarx-skill](https://github.com/baojiachen0214/karlmarx-skill) | [@baojiachen0214](https://github.com/baojiachen0214) | 用马克思主义方法论武装 AI，进行深层结构分析 | ![Stars](https://img.shields.io/github/stars/baojiachen0214/karlmarx-skill?style=flat-square) |
+| 郭德纲.skill | [guodegang-skills](https://github.com/ByteRax/guodegang-skills) | [@ByteRax](https://github.com/ByteRax) | 基于3本一手著作全文分析和80+来源交叉验证，蒸馏郭德纲的认知操作系统——6个核心心智模型、10条决策启发式和完整表达DNA | ![Stars](https://img.shields.io/github/stars/ByteRax/guodegang-skills?style=flat-square) |
 | 内娱.skill | [star-skill](https://github.com/yanghaoraneve/star-skill) | [@yanghaoraneve](https://github.com/yanghaoraneve) | 将歌手/偶像转化为可对话的 AI 数字人格 | ![Stars](https://img.shields.io/github/stars/yanghaoraneve/star-skill?style=flat-square) |
+| 陈震.skill | [zhen-ge-skill](https://github.com/LBatsoft/zhen-ge-skill) | [@LBatsoft](https://github.com/LBatsoft) | 蒸馏汽车评测人陈震的三维分析框架（性能、质感、价值），还原「这你受得了吗」的选车逻辑与效率优先世界观 | ![Stars](https://img.shields.io/github/stars/LBatsoft/zhen-ge-skill?style=flat-square) |
 | UP主.skill | [up-skill](https://github.com/jiemojiemo/up-skill) | [@jiemojiemo](https://github.com/jiemojiemo) | 给一个 B 站主页链接，自动蒸馏出 UP 主的数字分身：语气、选题、节奏全复刻 | ![Stars](https://img.shields.io/github/stars/jiemojiemo/up-skill?style=flat-square) |
 
 ---

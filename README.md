@@ -79,6 +79,7 @@
 | 心译 | [xinyi](https://github.com/kroxchan/xinyi) | [@kroxchan](https://github.com/kroxchan) | 发出去之前先译一下，基于真实微信聊天记录的关系理解工具 | ![Stars](https://img.shields.io/github/stars/kroxchan/xinyi?style=flat-square) |
 | 水仙.skill | [shuixian-skill](https://github.com/Cyh29hao/shuixian-skill) | [@Cyh29hao](https://github.com/Cyh29hao) | 把你的表达方式、思维方式和聊天记录蒸馏成一个可配置的浪漫自我镜像伴侣 Skill | ![Stars](https://img.shields.io/github/stars/Cyh29hao/shuixian-skill?style=flat-square) |
 | 兄弟.skill | [brother-skill](https://github.com/realteamprinz/brother-skill) | [@realteamprinz](https://github.com/realteamprinz) | 从抖音、群聊、微信截图等来源蒸馏你的兄弟们——口头禅、说话方式、搞笑风格、混乱能量，支持8种兄弟原型自动识别 | ![Stars](https://img.shields.io/github/stars/realteamprinz/brother-skill?style=flat-square) |
+| 相亲.skill | [相亲.skill](https://github.com/YuzeHao2023/love-skill) | [@YuzeHao2023](https://github.com/YuzeHao2023) | 正式恋爱之前先蒸馏双方赛博恋爱-通过消耗AI token节省真人token | ![stars](https://img.shields.io/github/stars/YuzeHao2023/love-skill?style=flat-square)
 
 ## 家庭关系 Family
 

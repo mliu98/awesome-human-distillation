@@ -268,6 +268,10 @@
 | 詹姆斯·克利尔.skill | [clear-skill](https://github.com/Panmax/clear-skill) | [@Panmax](https://github.com/Panmax) | 以詹姆斯·克利尔的视角回应你 -- 原子习惯与系统的复利力量 | ![Stars](https://img.shields.io/github/stars/Panmax/clear-skill?style=flat-square) |
 | 格拉德威尔.skill | [gladwell-skill](https://github.com/Panmax/gladwell-skill) | [@Panmax](https://github.com/Panmax) | 以马尔科姆·格拉德威尔的视角回应你 -- 用故事揭示反直觉的隐藏逻辑 | ![Stars](https://img.shields.io/github/stars/Panmax/gladwell-skill?style=flat-square) |
 | 查理·罗斯.skill | [charlierose-skill](https://github.com/Panmax/charlierose-skill) | [@Panmax](https://github.com/Panmax) | 蒸馏传奇访谈大师查理·罗斯的提问术：深度倾听、层层追问、让对方说出真话……用他的访谈框架提升你的沟通与提问能力 | ![Stars](https://img.shields.io/github/stars/Panmax/charlierose-skill?style=flat-square) |
+| AI维舟.skill | [AIWeiZhou-skill](https://github.com/TerryTian-tech/AIWeiZhou-skill) | [@TerryTian-tech](https://github.com/TerryTian-tech) | 提炼维舟在社会议题上的心智与思维框架，形成可复用的视角，用于分析热点议题或评价具体观点 | ![Stars](https://img.shields.io/github/stars/TerryTian-tech/AIWeiZhou-skill?style=flat-square) |
+| 谢胜子.skill | [xie-shengzi](https://github.com/Crystalzhou666/xie-shengzi) | [@Crystalzhou666](https://github.com/Crystalzhou666) | 提炼谢胜子的语言体系、逻辑框架 | ![Stars](https://img.shields.io/github/stars/Crystalzhou666/xie-shengzi?style=flat-square) |
+| 曲曲大女人.skill | [relationship-ququ-skill](https://github.com/Aubrey0806/relationship-ququ-skill) | [@Aubrey0806](https://github.com/Aubrey0806) | 蒸馏情感博主曲曲的大女人思维与恋爱方法论 | ![Stars](https://img.shields.io/github/stars/Aubrey0806/relationship-ququ-skill?style=flat-square) |
+| JacksonWANG.skill | [jackson-wang](https://github.com/NH3Lan/jackson-wang) | [@NH3Lan](https://github.com/NH3Lan) | 王嘉尔（Jackson Wang）magicman2 思维操作系统 | ![Stars](https://img.shields.io/github/stars/NH3Lan/jackson-wang?style=flat-square) |
 
 ---
 

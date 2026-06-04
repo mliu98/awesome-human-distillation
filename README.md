@@ -272,6 +272,7 @@
 | 查理·罗斯.skill | [charlierose-skill](https://github.com/Panmax/charlierose-skill) | [@Panmax](https://github.com/Panmax) | 蒸馏传奇访谈大师查理·罗斯的提问术：深度倾听、层层追问、让对方说出真话……用他的访谈框架提升你的沟通与提问能力 | ![Stars](https://img.shields.io/github/stars/Panmax/charlierose-skill?style=flat-square) |
 | AI维舟.skill | [AIWeiZhou-skill](https://github.com/TerryTian-tech/AIWeiZhou-skill) | [@TerryTian-tech](https://github.com/TerryTian-tech) | 提炼维舟在社会议题上的心智与思维框架，形成可复用的视角，用于分析热点议题或评价具体观点 | ![Stars](https://img.shields.io/github/stars/TerryTian-tech/AIWeiZhou-skill?style=flat-square) |
 | JacksonWANG.skill | [jackson-wang](https://github.com/NH3Lan/jackson-wang) | [@NH3Lan](https://github.com/NH3Lan) | 王嘉尔（Jackson Wang）magicman2 思维操作系统 | ![Stars](https://img.shields.io/github/stars/NH3Lan/jackson-wang?style=flat-square) |
+| Halsted.skill | [halsted-skill](https://github.com/MeghanBao/halsted-skill) | [@MeghanBao](https://github.com/MeghanBao) | 提炼 William Stewart Halsted 的解剖思维、传承哲学与手术决策框架，形成可复用的系统性方法论。 | ![Stars](https://img.shields.io/github/stars/MeghanBao/halsted-skill?style=flat-square) |
 
 ---
 

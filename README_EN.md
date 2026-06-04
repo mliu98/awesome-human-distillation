@@ -109,6 +109,7 @@ Take a real person who existed in your life — a colleague, a mentor, an ex, a 
 | 陈震.skill | [zhen-ge-skill](https://github.com/LBatsoft/zhen-ge-skill) | [@LBatsoft](https://github.com/LBatsoft) | Distill auto reviewer Chen Zhen's three-dimensional framework (performance, texture, value) — efficiency-first worldview and the logic behind "Can you handle this?" | ![Stars](https://img.shields.io/github/stars/LBatsoft/zhen-ge-skill?style=flat-square) |
 | AI维舟.skill | [AIWeiZhou-skill](https://github.com/TerryTian-tech/AIWeiZhou-skill) | [@TerryTian-tech](https://github.com/TerryTian-tech) | Distill essayist Wei Zhou's mental frameworks on social issues — reusable perspectives for analyzing current events and evaluating arguments | ![Stars](https://img.shields.io/github/stars/TerryTian-tech/AIWeiZhou-skill?style=flat-square) |
 | JacksonWANG.skill | [jackson-wang](https://github.com/NH3Lan/jackson-wang) | [@NH3Lan](https://github.com/NH3Lan) | Jackson Wang's magicman2 cognitive operating system | ![Stars](https://img.shields.io/github/stars/NH3Lan/jackson-wang?style=flat-square) |
+| Halsted.skill | [halsted-skill](https://github.com/MeghanBao/halsted-skill) | [@MeghanBao](https://github.com/MeghanBao) | Extract William Stewart Halsted's anatomical thinking, surgical philosophy, and decision-making framework into a reusable systematic methodology | ![Stars](https://img.shields.io/github/stars/MeghanBao/halsted-skill?style=flat-square) |
 
 ---
 

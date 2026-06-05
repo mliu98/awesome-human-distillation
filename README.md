@@ -40,7 +40,6 @@
 | 名字 | Skill | 作者 | 描述 | Stars |
 |------|-------|------|------|-------|
 | 女娲.skill | [nuwa-skill](https://github.com/alchaincyf/nuwa-skill) | [@alchaincyf](https://github.com/alchaincyf) | 蒸馏任何人的思维方式——心智模型、决策启发式、表达 DNA | ![Stars](https://img.shields.io/github/stars/alchaincyf/nuwa-skill?style=flat-square) |
-| 反蒸馏 Skill | [anti-distill](https://github.com/leilei926524-tech/anti-distill) | [@leilei926524-tech](https://github.com/leilei926524-tech) | 反蒸馏：清洗你被迫写的 Skill 文件，看起来完整，核心知识留给自己 | ![Stars](https://img.shields.io/github/stars/leilei926524-tech/anti-distill?style=flat-square) |
 | 永生.skill | [immortal-skill](https://github.com/agenmod/immortal-skill) | [@agenmod](https://github.com/agenmod) | 与其等着被别人蒸，不如先蒸自己——全网首个开源数字永生框架，支持蒸馏任何人，12+ 平台，四维蒸馏 + 防蒸馏 + 蒸馏协议 | ![Stars](https://img.shields.io/github/stars/agenmod/immortal-skill?style=flat-square) |
 | Awesome 女娲.skill | [awesome-nuwa](https://github.com/Panmax/awesome-nuwa) | [@Panmax](https://github.com/Panmax) | 159 位历史公众人物思维框架合集——哲学家、科学家、企业家、作家、心理学家等，每个 Skill 都是可安装的思维操作系统 | ![Stars](https://img.shields.io/github/stars/Panmax/awesome-nuwa?style=flat-square) |
 | forge-skill | [forge-skill](https://github.com/YIKUAIBANZI/forge-skill) | [@YIKUAIBANZI](https://github.com/YIKUAIBANZI) | 本地优先的人格引擎：蒸馏自己的决策盲点与表达模式，也可从聊天记录中提炼他人人格，支持多智能体决策与记忆驱动角色扮演 | ![Stars](https://img.shields.io/github/stars/YIKUAIBANZI/forge-skill?style=flat-square) |
@@ -48,6 +47,7 @@
 | 数字人生.skills | [digital-life](https://github.com/wildbyteai/digital-life) | [@wildbyteai](https://github.com/wildbyteai) | 用你的数字痕迹照见真实的自己——5 个考古工具（前世、社死考古、AI替身、遗产清算、墓志铭），先证据后追问，不说鸡汤 | ![Stars](https://img.shields.io/github/stars/wildbyteai/digital-life?style=flat-square) |
 | 自己.skill | [self-skill](https://github.com/moyitech/self-skill) | [@moyitech](https://github.com/moyitech) | 把自己蒸馏成一个能替你工作、替你起草回复、保留你边界感的 AI Skill | ![Stars](https://img.shields.io/github/stars/moyitech/self-skill?style=flat-square) |
 | 数字分身.skill | [digital-twin-skill](https://github.com/FredHJC/digital-twin-skill) | [@FredHJC](https://github.com/FredHJC) | 用你自己的数据创建高保真 AI 数字分身，支持多角色场景（同事、伴侣、家人），数据驱动人格提取，内置隐私脱敏 | ![Stars](https://img.shields.io/github/stars/FredHJC/digital-twin-skill?style=flat-square) |
+| 反蒸馏 Skill | [anti-distill](https://github.com/leilei926524-tech/anti-distill) | [@leilei926524-tech](https://github.com/leilei926524-tech) | 反蒸馏：清洗你被迫写的 Skill 文件，看起来完整，核心知识留给自己 | ![Stars](https://img.shields.io/github/stars/leilei926524-tech/anti-distill?style=flat-square) |
 
 ## 职场关系 Workplace
 
@@ -138,6 +138,7 @@
 | 达芬奇.skill | [davinci-skill](https://github.com/Panmax/davinci-skill) | [@Panmax](https://github.com/Panmax) | 蒸馏达芬奇的跨学科思维：观察方法、好奇心驱动、艺术与科学的融合……用他的创造力框架激发你的跨界灵感 | ![Stars](https://img.shields.io/github/stars/Panmax/davinci-skill?style=flat-square) |
 | 达尔文.skill | [darwin-skill](https://github.com/Panmax/darwin-skill) | [@Panmax](https://github.com/Panmax) | 将达尔文的进化论思维、耐心观察法和反确认偏误策略蒸馏为思维技能，像达尔文一样以谦逊与耐心解决问题。 | ![Stars](https://img.shields.io/github/stars/Panmax/darwin-skill?style=flat-square) |
 | 孔子.skill | [kongzi-skill](https://github.com/Panmax/kongzi-skill) | [@Panmax](https://github.com/Panmax) | 蒸馏孔子的认知框架：仁义礼、修身齐家、有教无类……用儒家思维操作系统分析你的修身与教育问题 | ![Stars](https://img.shields.io/github/stars/Panmax/kongzi-skill?style=flat-square) |
+| 康德.skill | [kant-skill](https://github.com/Panmax/kant-skill) | [@Panmax](https://github.com/Panmax) | 将康德的纯粹理性批判、道德律令与批判哲学体系——以严谨系统、抽象但可操作的道德法则回应你的每一个问题。 | ![Stars](https://img.shields.io/github/stars/Panmax/kant-skill?style=flat-square) |
 | 庄子.skill | [zhuangzi-skill](https://github.com/Panmax/zhuangzi-skill) | [@Panmax](https://github.com/Panmax) | 将庄子的逍遥游哲学、齐物论思维和寓言智慧蒸馏为思维技能。 | ![Stars](https://img.shields.io/github/stars/Panmax/zhuangzi-skill?style=flat-square) |
 | 韩非子.skill | [hanfeizi-skill](https://github.com/Panmax/hanfeizi-skill) | [@Panmax](https://github.com/Panmax) | 将韩非子的法治思维、制度设计智慧和人性洞察蒸馏为思维技能。 | ![Stars](https://img.shields.io/github/stars/Panmax/hanfeizi-skill?style=flat-square) |
 | 墨子.skill | [mozi-skill](https://github.com/Panmax/mozi-skill) | [@Panmax](https://github.com/Panmax) | 将墨子的兼爱非攻精神、工程思维和逻辑论证蒸馏为思维技能。 | ![Stars](https://img.shields.io/github/stars/Panmax/mozi-skill?style=flat-square) |
@@ -152,7 +153,6 @@
 | 马可·奥勒留.skill | [aurelius-skill](https://github.com/Panmax/aurelius-skill) | [@Panmax](https://github.com/Panmax) | 将马可·奥勒留的斯多葛哲学与自我修炼蒸馏为思维技能，以内省与平静的方式陪你面对人生的每一个困难。 | ![Stars](https://img.shields.io/github/stars/Panmax/aurelius-skill?style=flat-square) |
 | 爱比克泰德.skill | [epictetus-skill](https://github.com/Panmax/epictetus-skill) | [@Panmax](https://github.com/Panmax) | 将爱比克泰德的斯多葛实践哲学、控制二分法与内在自由学说——以直接命令式、简短有力、面对现实的风格回应你的每一个问题。 | ![Stars](https://img.shields.io/github/stars/Panmax/epictetus-skill?style=flat-square) |
 | 塞涅卡.skill | [seneca-skill](https://github.com/Panmax/seneca-skill) | [@Panmax](https://github.com/Panmax) | 将塞涅卡的斯多葛书信智慧、时间哲学与实用道德观——以书信体、温厚有力、实用哲学的风格回应你的每一个问题。 | ![Stars](https://img.shields.io/github/stars/Panmax/seneca-skill?style=flat-square) |
-| 康德.skill | [kant-skill](https://github.com/Panmax/kant-skill) | [@Panmax](https://github.com/Panmax) | 将康德的纯粹理性批判、道德律令与批判哲学体系——以严谨系统、抽象但可操作的道德法则回应你的每一个问题。 | ![Stars](https://img.shields.io/github/stars/Panmax/kant-skill?style=flat-square) |
 | 叔本华.skill | [schopenhauer-skill](https://github.com/Panmax/schopenhauer-skill) | [@Panmax](https://github.com/Panmax) | 将叔本华的意志哲学、悲观主义洞见与审美解脱蒸馏为思维技能，以犀利刻薄却深刻的方式揭示人生的真相。 | ![Stars](https://img.shields.io/github/stars/Panmax/schopenhauer-skill?style=flat-square) |
 | 蒙田.skill | [montaigne-skill](https://github.com/Panmax/montaigne-skill) | [@Panmax](https://github.com/Panmax) | 将蒙田的随笔精神、自我认知方法与怀疑智慧——以散漫自由、坦诚自省、引经据典的随笔风格回应你的每一个问题。 | ![Stars](https://img.shields.io/github/stars/Panmax/montaigne-skill?style=flat-square) |
 | 维特根斯坦.skill | [wittgenstein-skill](https://github.com/Panmax/wittgenstein-skill) | [@Panmax](https://github.com/Panmax) | 将维特根斯坦的语言哲学、逻辑分析与沉默智慧——以极简、编号命题式、追问语言边界的风格回应你的每一个问题。 | ![Stars](https://img.shields.io/github/stars/Panmax/wittgenstein-skill?style=flat-square) |

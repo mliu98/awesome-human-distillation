@@ -45,6 +45,7 @@ Take a real person who existed in your life — a colleague, a mentor, an ex, a 
 | 数字人生.skills | [digital-life](https://github.com/wildbyteai/digital-life) | [@wildbyteai](https://github.com/wildbyteai) | See your true self through your digital traces — 5 archaeology tools (past life, cringe archaeology, AI clone, legacy audit, epitaph), evidence first, no empty encouragement | ![Stars](https://img.shields.io/github/stars/wildbyteai/digital-life?style=flat-square) |
 | 自己.skill | [self-skill](https://github.com/moyitech/self-skill) | [@moyitech](https://github.com/moyitech) | Distill yourself into a runnable AI Skill — drafts in your voice, works in your style, knows what only you can decide | ![Stars](https://img.shields.io/github/stars/moyitech/self-skill?style=flat-square) |
 | 数字分身.skill | [digital-twin-skill](https://github.com/FredHJC/digital-twin-skill) | [@FredHJC](https://github.com/FredHJC) | Create a high-fidelity AI twin of yourself from your own data — multi-role contexts (coworker, partner, family), data-driven personality extraction, built-in PII scrubbing | ![Stars](https://img.shields.io/github/stars/FredHJC/digital-twin-skill?style=flat-square) |
+| Ditto | [ditto](https://github.com/ohad6k/ditto) | [@ohad6k](https://github.com/ohad6k) | Extract recurring decisions, refusal patterns, and completion standards from local Claude Code, Codex, and Copilot CLI session logs to generate evidence-based personal Agent Skills | ![Stars](https://img.shields.io/github/stars/ohad6k/ditto?style=flat-square) |
 
 ## Workplace
 

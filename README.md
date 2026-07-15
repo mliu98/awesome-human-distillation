@@ -48,6 +48,7 @@
 | 数字人生.skills | [digital-life](https://github.com/wildbyteai/digital-life) | [@wildbyteai](https://github.com/wildbyteai) | 用你的数字痕迹照见真实的自己——5 个考古工具（前世、社死考古、AI替身、遗产清算、墓志铭），先证据后追问，不说鸡汤 | ![Stars](https://img.shields.io/github/stars/wildbyteai/digital-life?style=flat-square) |
 | 自己.skill | [self-skill](https://github.com/moyitech/self-skill) | [@moyitech](https://github.com/moyitech) | 把自己蒸馏成一个能替你工作、替你起草回复、保留你边界感的 AI Skill | ![Stars](https://img.shields.io/github/stars/moyitech/self-skill?style=flat-square) |
 | 数字分身.skill | [digital-twin-skill](https://github.com/FredHJC/digital-twin-skill) | [@FredHJC](https://github.com/FredHJC) | 用你自己的数据创建高保真 AI 数字分身，支持多角色场景（同事、伴侣、家人），数据驱动人格提取，内置隐私脱敏 | ![Stars](https://img.shields.io/github/stars/FredHJC/digital-twin-skill?style=flat-square) |
+| Ditto | [ditto](https://github.com/ohad6k/ditto) | [@ohad6k](https://github.com/ohad6k) | 从真实的 Claude Code、Codex 和 Copilot CLI 本地会话记录中提取反复出现的决策、拒绝模式和完成标准，生成带证据依据的个人 Agent Skills。 | ![Stars](https://img.shields.io/github/stars/ohad6k/ditto?style=flat-square) |
 
 ## 职场关系 Workplace
 

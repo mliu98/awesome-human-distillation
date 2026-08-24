@@ -296,4 +296,4 @@
 
 ## Star History
 
-[![Star History Chart](https://api.star-history.com/svg?repos=mliu98/awesome-human-distillation&type=Date&t=20260408)](https://star-history.com/#mliu98/awesome-human-distillation&Date)
+[![Star History Chart](https://star-history.dera.page/svg?repos=mliu98/awesome-human-distillation&type=Date&t=20260408)](https://star-history.dera.page/#mliu98/awesome-human-distillation&Date)

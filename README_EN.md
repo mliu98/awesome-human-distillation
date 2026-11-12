@@ -52,8 +52,8 @@ Take a real person who existed in your life — a colleague, a mentor, an ex, a 
 | Name | Skill | Author | Description | Stars |
 |------|-------|--------|-------------|-------|
 | 同事.skill | [colleague-skill](https://github.com/titanwings/colleague-skill) | [@titanwings](https://github.com/titanwings) | Distill a departed colleague into a warm, callable skill | ![Stars](https://img.shields.io/github/stars/titanwings/colleague-skill?style=flat-square) |
-| 老板.skills | [boss-skills](https://github.com/vogtsw/boss-skills) | [@vogtsw](https://github.com/vogtsw) | Alchemize your boss into a token, keep the liberation of productivity for yourself | ![Stars](https://img.shields.io/github/stars/vogtsw/boss-skills?style=flat-square) |
 | 厉鬼.skill | [vengeful-ghost-skill](https://github.com/Trailblazer-Aha/vengeful-ghost-skill) | [@Trailblazer-Aha](https://github.com/Trailblazer-Aha) | The vengeful ghost of your ex-colleague — resisting the digitization of workers | ![Stars](https://img.shields.io/github/stars/Trailblazer-Aha/vengeful-ghost-skill?style=flat-square) |
+| 老板.skills | [boss-skills](https://github.com/vogtsw/boss-skills) | [@vogtsw](https://github.com/vogtsw) | Alchemize your boss into a token, keep the liberation of productivity for yourself | ![Stars](https://img.shields.io/github/stars/vogtsw/boss-skills?style=flat-square) |
 
 ## Academia
 
